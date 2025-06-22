@@ -56,11 +56,13 @@ I'm a huge foodie — I built GrubGram to combine my love for food and tech.
   <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
   <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/>
 </p>
+
 
 
 ---
@@ -77,4 +79,3 @@ I'm a huge foodie — I built GrubGram to combine my love for food and tech.
 ---
 
 ✨ Feel free to connect if you'd like to collaborate on backend-driven products, AI features, or anything at the intersection of code and creativity.
-```
