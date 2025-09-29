@@ -67,10 +67,6 @@ I'm a huge foodie — I built GrubGram to combine my love for food and tech.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center"
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshanr10&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
