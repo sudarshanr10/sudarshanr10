@@ -67,7 +67,4 @@ I'm a huge foodie — I built GrubGram to combine my love for food and tech.
 
 ---
 
-
----
-
 ✨ Feel free to connect if you'd like to collaborate on backend-driven products, AI features, or anything at the intersection of code and creativity.
