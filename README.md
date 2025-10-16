@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sudarshan</h1>
-<p align="center">Backend-first engineer building for the web, mobile, and ML.</p>
+<p align="center">Software Engineer who works across the stack, loves new tools, and is looking to build creative, useful products</p>
 
 ---
 
