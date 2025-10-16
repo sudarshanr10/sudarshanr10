@@ -1,46 +1,39 @@
-<h1 align="center">Hi 👋, I'm Sudarshan Ramesh</h1>
-
-<p align="center">
-  I'm a backend-focused software engineer with a passion for fintech, full-stack development, and integrating AI into real-world applications.
-</p>
+<h1 align="center">Hi, I'm Sudarshan</h1>
+<p align="center">Backend-first engineer building for the web, mobile, and ML.</p>
 
 ---
 
-### 🔭 I’m currently working on
-- **[VINT](https://github.com/sudarshanr10/vint)** – A full-stack personal finance app that syncs with 10,000+ financial institutions via Plaid. Built with FastAPI, PostgreSQL, and real-time WebSockets. Features SMS budget alerts, OAuth authentication, and GPT-powered insights.
-- **GrubGram** – A mobile-first social platform for food lovers to share meals and rate dishes. Designed for global engagement and local food discovery.
+### 🛠️ What I'm Into (Tech)
+- Web Development
+- Mobile App Development
+- Backend & APIs
+- Databases & Data Engineering
+- Machine Learning
 
-### 🌱 I’m currently learning
-- **Spring Boot**, **MongoDB**, and **Snowflake ML functions** to deepen my backend and data engineering skill set.
+### 🎨 What I'm Into (Beyond Tech)
+- Soccer (Chelsea) ⚽️
+- Basketball 🏀
+- Anime 📺
+- Video Games 🎮
+- Cooking 🍳
+- Food & Local Eats 🍜
+- Listening to Rap & R&B 🎧
 
-### 💬 Ask me about
-- Building **RESTful APIs** and scalable backend systems
-- **PostgreSQL** schema design & query optimization
-- **OAuth2**, **JWT**, and secure authentication flows
-- Running background jobs with **Celery + Redis**
-- Real-time features using **WebSockets**
-- Full-stack apps with **React + FastAPI**
-- Integrating APIs like **Plaid**, **Twilio**, and **OpenAI**
-- Embedding AI into backend systems (e.g., GPT, PGVector, LlamaIndex)
-
-### 💡 Interests
-- 🔧 Full-Stack Web Development
-- 🧠 Applied Machine Learning & AI
-- 🛠️ Backend Infrastructure & Cloud Deployment
-
-### ⚡ Fun Fact
-I'm a huge foodie — I built GrubGram to combine my love for food and tech.
-
-### 👨‍💻 All of my projects are available at
-[github.com/sudarshanr10](https://github.com/sudarshanr10)
-
-### 📫 How to reach me
-**sudarshan86.ramesh@gmail.com**  
-[linkedin.com/in/sudarshanr10](https://www.linkedin.com/in/sudarshanr10)
+### 🚀 What I'm Working On Now
+- **VINT** — Personal Finance App (Plaid + FastAPI + Postgres).
+- **WellNest** — Mental-Health Forum Inspired by Reddit.
+- **Learning** — I’m currently learning **Spring Boot** and exploring **MongoDB** and **Snowflake ML**.
 
 ---
 
-### 🧰 Languages & Tools
+### 🔗 Find Me
+- GitHub: [sudarshanr10](https://github.com/sudarshanr10)
+- LinkedIn: [linkedin.com/in/sudarshanr10](https://www.linkedin.com/in/sudarshanr10)
+- Email: **sudarshan86.ramesh@gmail.com**
+
+---
+
+### 🧰 Tools I Use
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -63,8 +56,5 @@ I'm a huge foodie — I built GrubGram to combine my love for food and tech.
   <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/>
 </p>
 
-
-
 ---
-
 ✨ Feel free to connect if you'd like to collaborate on backend-driven products, AI features, or anything at the intersection of code and creativity.
