@@ -11,18 +11,22 @@
 - Machine Learning
 
 ### 🎨 What I'm Into (Beyond Tech)
-- Soccer (Chelsea) ⚽️
-- Basketball 🏀
-- Anime 📺
-- Video Games 🎮
-- Cooking 🍳
-- Food & Local Eats 🍜
-- Listening to Rap & R&B 🎧
+- Soccer (Chelsea)
+- Basketball
+- Anime
+- Video Games
+- Cooking
+- Food & Local Eats
+- Listening To Rap & R&B
 
 ### 🚀 What I'm Working On Now
 - **VINT** — Personal Finance App (Plaid + FastAPI + Postgres).
-- **WellNest** — Mental-Health Forum Inspired by Reddit.
-- **Learning** — I’m currently learning **Spring Boot** and exploring **MongoDB** and **Snowflake ML**.
+- **WellNest** — Mental-Health Forum Inspired By Reddit.
+
+### 📚 What I'm Learning
+- Currently Learning **Spring Boot**
+- Exploring **MongoDB**
+- Exploring **Snowflake ML**
 
 ---
 
